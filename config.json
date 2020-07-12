@@ -1,0 +1,24 @@
+{
+  "params":
+  {
+    "local_server": "True",
+    "local_uri": "mysql://root:@localhost/ragnargaming",
+    "prod_uri": "mysql://root:@localhost/ragnargaming",
+    "blog_name": "Ragnar Gaming",
+    "tag_line": "Welcome to Ragnar Gaming",
+    "gmail-user":"yourgmail.com",
+    "gmail-password": "yourpassword",
+    "about_text": "Hardcore gamers usually eat,drink,breathe and live their whole lives playing their favourite games. For rest of the people it may sound kinda crazy sitting alongside the screen for the whole day,but for gamers like us its a paradise to heaven. Whether you are a gaming freak or an occasional gamer but believe me gaming is one of the best source of entertainment. Wanna know more about gaming. Go and explore the blog get to learn about your favourite games. Hope you have a good time exploring it",
+    "no_of_posts": 2,
+    "login_image": "login.jpeg",
+    "admin_user": "Admin name",
+    "admin_password": "Admin password",
+    "upload_location": "C:\\Users\\hp\\PycharmProjects\\flaskproj\\static\\img"
+
+
+
+
+
+  }
+
+}
